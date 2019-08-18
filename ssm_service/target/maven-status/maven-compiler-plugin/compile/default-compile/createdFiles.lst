@@ -1,2 +1,10 @@
+com\yss\ssm\service\IPermissionService.class
+com\yss\ssm\service\impl\RoleServiceImpl.class
 com\yss\ssm\service\IProductService.class
 com\yss\ssm\service\impl\ProductServiceImpl.class
+com\yss\ssm\service\impl\OrdersServiceImpl.class
+com\yss\ssm\service\impl\PermissionServiceImpl.class
+com\yss\ssm\service\IUsersService.class
+com\yss\ssm\service\IOrdersService.class
+com\yss\ssm\service\impl\UsersServiceImpl.class
+com\yss\ssm\service\IRoleService.class

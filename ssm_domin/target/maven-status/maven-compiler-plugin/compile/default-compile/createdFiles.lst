@@ -1,1 +1,7 @@
+com\yss\ssm\domin\Role.class
+com\yss\ssm\domin\Orders.class
+com\yss\ssm\domin\Member.class
+com\yss\ssm\domin\Traveller.class
+com\yss\ssm\domin\UserInfo.class
 com\yss\ssm\domin\Product.class
+com\yss\ssm\domin\Permission.class

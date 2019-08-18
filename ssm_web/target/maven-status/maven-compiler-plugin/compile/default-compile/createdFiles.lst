@@ -1,1 +1,5 @@
 com\yss\ssm\Controller\ProductController.class
+com\yss\ssm\Controller\PermissionController.class
+com\yss\ssm\Controller\RoleController.class
+com\yss\ssm\Controller\UsersController.class
+com\yss\ssm\Controller\OrdersController.class

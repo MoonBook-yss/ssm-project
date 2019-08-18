@@ -95,7 +95,7 @@
                             <div class="form-group form-inline">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-default" title="新建"><i
-                                            class="fa fa-file-o"></i> 新建
+                                            class="fa fa-file-o"onclick="location.href='${pageContext.request.contextPath}/pages/product-add.jsp'" ></i> 新建(!)
                                     </button>
                                     <button type="button" class="btn btn-default" title="删除"><i
                                             class="fa fa-trash-o"></i> 删除
@@ -151,7 +151,7 @@
                                     <td>${product.productStatusStr}</td>
                                     <td class="text-center">
                                         <button type="button" class="btn bg-olive btn-xs">订单</button>
-                                        <button type="button" class="btn bg-olive btn-xs">详情</button>
+                                        <button type="button" class="btn bg-olive btn-xs" onclick="">详情</button>
                                         <button type="button" class="btn bg-olive btn-xs">编辑</button>
                                     </td>
                                 </tr>
